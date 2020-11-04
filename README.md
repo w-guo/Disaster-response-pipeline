@@ -2,11 +2,9 @@
 
 ### Project summary
 
-In this project, we analyzed disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+In this project, we analyze a set of labelled disaster text messages which were collected from actual disaster events by Figure Eight, and build a machine learning pipeline using multiclass logistic regression that is able to categorize emergency messages based on the needs.
 
-By using the provided set of labelled disaster text messages, which were collected during actual disaster events, we trained a machine learning pipeline that is able to categorize emergency messages based on the needs communicated by the sender (e.g. shelter, medical aid, etc.), and could ultimately be used to automatically notify appropriate disaster relief agencies.
-
-We implemented a simple Flask web application that would allow an emergency worker to input a new text message and obtain classification results for several disaster event categories.
+We also set up a Flask web application that will allow an emergency worker to input a new message and obtain classification results in several categories so that messages can be directed to an appropriate disaster relief agency.
 
 ### File descriptions
 
