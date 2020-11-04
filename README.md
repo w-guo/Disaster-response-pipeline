@@ -2,9 +2,7 @@
 
 ### Project summary
 
-In this project, we analyze a set of labelled disaster text messages which were collected from actual disaster events by Figure Eight, and build a machine learning pipeline using multiclass logistic regression that is able to categorize emergency messages based on the needs.
-
-We also set up a Flask web application that will allow an emergency worker to input a new message and obtain classification results in several categories so that messages can be directed to an appropriate disaster relief agency.
+In this project, we analyze a set of labelled disaster text messages which were collected from actual disaster events by Figure Eight, and build a machine learning pipeline using multiclass logistic regression that is able to categorize emergency messages based on the needs. We also set up a Flask web application that allows an emergency worker to input a new message and obtain classification results in several categories so that messages can be directed to an appropriate disaster relief agency.
 
 ### File descriptions
 
@@ -20,8 +18,6 @@ We also set up a Flask web application that will allow an emergency worker to in
     ├── models
     │   └── train_classifier.py              # Build a machine learning pipeline           
     └── README.md
-
-### Results
 
 ### Instructions
 1. Run the following commands in the project's root directory to set up your database and model.
