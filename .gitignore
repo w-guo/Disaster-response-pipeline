@@ -2,3 +2,4 @@
 *.pkl
 *.db
 *.ipynb
+.DS_Store
