@@ -1,5 +1,7 @@
 # Disaster Response Pipeline 
 
+Github repository: https://github.com/w-guo/Disaster-response-pipeline
+
 ### Project summary
 
 In this project, we analyze a set of labelled disaster text messages which were collected from actual disaster events by Figure Eight, and build a machine learning pipeline using multiclass logistic regression that is able to categorize emergency messages based on the needs. We also set up a Flask web application that allows an emergency worker to input a new message and obtain classification results in several categories so that messages can be directed to an appropriate disaster relief agency.
